@@ -39,7 +39,11 @@ To view and query the database you can browse to
 http://localhost:3030/h2-console
 Make sure you disable this in production environment.
 
-# H2-console
+## H2-console
 ![h2-console](https://github.com/behrouztakhti/spring-batch/assets/6881159/8a568ff1-9b38-4e26-b9f1-da52a71fc6e9)
+
+## Schema
+![schema](https://github.com/behrouztakhti/spring-batch/assets/6881159/a952cb53-b6b4-483b-9d0f-0eb92d398be9)
+
 
 
