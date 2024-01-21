@@ -1,0 +1,15 @@
+server:
+  port: 3030
+spring:
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: jdbc:h2:mem:batch-sample;MODE=Oracle;DB_CLOSE_ON_EXIT=FALSE;DB_CLOSE_DELAY=-1
+    driverClassName: org.h2.Driver
+    username: sa
+    password: qaz@123
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+file:
+  input: countries.csv
