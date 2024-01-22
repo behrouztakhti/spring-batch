@@ -39,6 +39,9 @@ To view and query the database you can browse to
 http://localhost:3030/h2-console
 Make sure you disable this in production environment.
 
+## countries.csv
+![countries csv](https://github.com/behrouztakhti/spring-batch/assets/6881159/e601cec5-6e31-441d-b371-c559836a5bbf)
+
 ## H2-console
 ![h2-console](https://github.com/behrouztakhti/spring-batch/assets/6881159/8a568ff1-9b38-4e26-b9f1-da52a71fc6e9)
 
